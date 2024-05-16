@@ -1,4 +1,4 @@
-# Gateway
+# Lora Gateway Setup for TTN_UG65 
 
 The following describes the setup of the [ug65-l04eu-868m-ea](https://resource.milesight-iot.com/milesight/document/ug65-datasheet-en.pdf) and how it can be connected to the TTN.
 
@@ -66,9 +66,3 @@ The client key file must be generated in the TTN, whereby it should be noted tha
 
 Once added, the gateway should be available.
 ![added_gateway.png](assets%2Fadded_gateway.png)
-
-
-# Disclaimer
- - I don't own any of these pictures
- - I hope this helped you at least a little bit ^^
- - Wish you a Merry Christmas
